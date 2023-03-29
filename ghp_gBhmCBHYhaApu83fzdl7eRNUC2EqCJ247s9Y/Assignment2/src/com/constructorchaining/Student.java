@@ -1,4 +1,4 @@
-package com.demo;
+package com.constructorchaining;
 
 public class Student {
 	private int id;
